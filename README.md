@@ -56,10 +56,10 @@ Agora, com base nas instruções acima, vamos começar. Meu primeiro pedido é: 
 <p>
     <p>&nbsp;&nbsp;&nbsp;Pedro<br>
     &nbsp;&nbsp;&nbsp;
-    <a href="#https://github.com/pdro-h0">
+    <a href="https://github.com/pdro-h0">
     GitHub
     </a>&nbsp;|&nbsp;
-    <a href="#https://www.linkedin.com/in/pedro-h-b7547588/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/pedro-h-b7547588/">LinkedIn</a>
 &nbsp;
 </p>
 <br/><br/>
